@@ -4,6 +4,11 @@ Discriminative predicate path mining for fact checking in knowledge graphs, B Sh
 
 https://arxiv.org/pdf/1510.05911.pdf
 
+```
+Pre-requisite for Ubuntu
+sudo apt-get install libboost-all-dev
+```
+
 ```bash
 git clone https://github.com/nddsg/KGMiner.git
 cd KGMiner/.
